@@ -8,6 +8,8 @@ A nifty tool that allows you to quickly switch between scenes in the Unity Edito
 
 Just download the <code>.unitypackage</code> file, run it and press <code>Import</code>!
 
+## How to use:
+![Demo](https://i.imgur.com/oNt6IKO.gif)
 
 ## Possible Error:
 > Assembly with name 'ToolbarExtender.Editor' already exists
